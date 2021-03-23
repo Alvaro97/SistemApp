@@ -1,0 +1,28 @@
+div.form-element {
+    margin: 20px 0;
+    text-align: center;
+}
+
+button.b {
+    padding: 10px;
+    font-size: 1.5rem;
+    font-family: 'Lato';
+    font-weight: 100;
+    background: #EFA760;
+    border: none;
+}
+
+input {
+    border: 2px solid #ccc;
+    font-size: 1.5rem;
+    font-weight: 100;
+    font-family: 'Lato';
+    padding: 10px;
+}
+
+label {
+    width: 150px;
+    text-align: left;
+    font-size: 1.5rem;
+    font-family: 'Lato';
+}

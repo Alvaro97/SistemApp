@@ -1,0 +1,71 @@
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 90%;
+  text-align: center;
+  margin: 20px auto;
+}
+
+th {
+	height: 70px;
+	background-color:#ACACAC;
+}
+
+th, td {
+  padding: 8px;
+}
+
+td.x {
+	text-align: center;
+}
+
+tr.predefinido {
+	background-color:#FFB131;
+}
+tr.predefinido:hover {
+	background-color:#FFC970;
+}
+
+tr.sistema {
+	background-color:#18CEE4;
+}
+tr.sistema:hover {
+	background-color:#70F0FF;
+}
+
+tr.personal {
+	background-color:#22FF0F;
+}
+tr.personal:hover {
+	background-color:#84FE79;
+}
+
+tr.servicios {
+	background-color:#C6C6C6;
+}
+
+.color1{
+	color: #FFB131;
+}
+
+.color2{
+	color: #18CEE4;
+}
+
+.color3{
+	color: #22FF0F;
+}
+
+.colores{
+	text-align: center;
+	border: 1px solid black;
+}
+
+
+
+
+
+
+
